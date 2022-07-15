@@ -1,5 +1,7 @@
 # Capstone Project
 
+![Screenshot of Scheduling Application](./download.png)
+
 • the business problem or opportunity you are solving for, including a description of the customers and why this application will fulfill their needs
 
 • existing gaps in the software application you are replacing or modifying (if applicable)
