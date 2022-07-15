@@ -1,7 +1,5 @@
 # Capstone Project
 
-A. Comprehensive summary that addresses the following requirements:
-
 • the business problem or opportunity you are solving for, including a description of the customers and why this application will fulfill their needs
 
 • existing gaps in the software application you are replacing or modifying (if applicable)
@@ -58,4 +56,4 @@ C. Create each of the following forms of documentation for the application you h
 
 D. Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
 
-E. Demonstrate professional communication in the content and presentation of your submission.
+
